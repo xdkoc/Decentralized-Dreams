@@ -1,2 +1,2 @@
 # Decentralized-Dreams
-A creative repository for innovative ideas, concepts, and blueprints centered around blockchain technology.
+A creative repository for innovative ideas, concepts, and blueprints centered around blockchain technology, decentralized finance (DeFi), Web3, and the future of decentralized systems. This repo serves as a hub for exploring cutting-edge crypto innovations, from smart contract concepts to tokenomics strategies, all aimed at shaping the next era of digital freedom and financial sovereignty.
